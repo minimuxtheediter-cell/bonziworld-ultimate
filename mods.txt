@@ -1,0 +1,3 @@
+Owner: Mauler
+admins: sticky, mailbox, jim, Jy
+mods: ideal, computerfan, bursto, ivory
